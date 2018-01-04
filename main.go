@@ -1,7 +1,7 @@
 package main
 
 import (
-  "async-httpclient/entities"
+  "github.com/rainCreek/async-httpclient/entities"
   //"./entities"
   "fmt"
 )
