@@ -1,8 +1,8 @@
 package main
 
 import (
-  //"async-httpclient/entities"
-  "./entities"
+  "async-httpclient/entities"
+  //"./entities"
   "fmt"
 )
 
